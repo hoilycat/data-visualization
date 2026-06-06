@@ -22,9 +22,16 @@
 
 ### 결과물
 - [📊 Tableau 대시보드 보기](https://public.tableau.com/app/profile/kim.seoyoung6184/viz/_17675712350940/sheet6)
+- 대시보드 일러스트 전체 직접 제작 (Inkscape SVG) — 유물 아이콘, 박물관별 대표 유물 심볼 포함
+
+### 📸 대시보드 미리보기
+
+![유물의 진실과 발굴 현황](https://raw.githubusercontent.com/hoilycat/data-visualization/main/01_museum/screenshots/01_artifact_overview.png)
+
+![박물관 소장 현황](https://raw.githubusercontent.com/hoilycat/data-visualization/main/01_museum/screenshots/02_museum_collection.png)
 
 ### Tech Stack
-`Python` `Selenium` `Pandas` `Google Colab` `Tableau`
+`Python` `Selenium` `Pandas` `Google Colab` `Tableau` `Inkscape`
 
 ---
 
@@ -61,9 +68,16 @@
 
 ### 결과물
 - [📊 Tableau 대시보드 보기](https://public.tableau.com/app/profile/kim.seoyoung6184/viz/_17675283241480/sheet7)
+- 대시보드 일러스트 전체 직접 제작 (Inkscape SVG) — 나무, 자동차, 커피잔, 교통콘 등
+
+### 📸 대시보드 미리보기
+
+![휴게소 분야별 1위 분석](https://raw.githubusercontent.com/hoilycat/data-visualization/main/02_highway/screenshots/01_highway_top1.png)
+
+![휴게소 심층 탐구](https://raw.githubusercontent.com/hoilycat/data-visualization/main/02_highway/screenshots/02_highway_deep_dive.png)
 
 ### Tech Stack
-`CSV` `Tableau`
+`CSV` `Tableau` `Inkscape`
 
 ---
 
@@ -95,9 +109,16 @@
 
 ### 결과물
 - [📊 Tableau 대시보드 보기](https://public.tableau.com/app/profile/kim.seoyoung6184/viz/_17675710943530/sheet5)
+- 대시보드 일러스트 전체 직접 제작 (Inkscape SVG) — 돌하르방, 자동차, 자연 배경 등
+
+### 📸 대시보드 미리보기
+
+![여가 심층 탐구](https://raw.githubusercontent.com/hoilycat/data-visualization/main/03_culture/screenshots/01_culture_leisure.png)
+
+![나의 문화 역세권](https://raw.githubusercontent.com/hoilycat/data-visualization/main/03_culture/screenshots/02_culture_district.png)
 
 ### Tech Stack
-`Excel` `Tableau`
+`Excel` `Tableau` `Inkscape`
 
 ---
 
@@ -112,12 +133,13 @@
 기승전결 구조로 설계한 대시보드:
 1. **기 (Intro):** Top 10 점유율 하락 + 고유 이름 폭발 → 획일화의 종말
 2. **승 (Body 1):** Mary vs Jennifer, Riley & Taylor → 종교/성별 경계 변화
-3. **전 (Body 2):** 이름 길이 변화, 마지막 글자 차트→ 스타일 변화
+3. **전 (Body 2):** 이름 길이 변화, 마지막 글자 히트맵 → 스타일 변화
 4. **결 (Outro):** John/Mary → Noah/Emma 세대교체
 
 ### 결과물
 - [📊 Tableau 대시보드 보기](https://public.tableau.com/app/profile/kim.seoyoung6184/viz/_17681820857810/12)
 - KMeans 군집화 실험 (이름 문자 벡터화)
+- 대시보드 일러스트 전체 직접 제작 (Inkscape SVG)
 
 ### 📸 대시보드 미리보기
 
