@@ -10,8 +10,8 @@
 > "어떻게 지저분한 문화유산 데이터를 분석 가능한 구조로 바꾸는가"
 
 ### 데이터 수집
-- Selenium 기반 국립중앙박물관 웹 크롤링
-- 원본 데이터 9,000개+ 수집
+- 국립중앙박물관 공개 자료와 원본 데이터 9,000개+ 수집
+- 수집 데이터를 분석 가능한 형태로 정리
 
 ### 데이터 정제 과정
 - V1 ~ V21 반복 정제 (중복 제거, 결측 처리, 분류 기준 설계)
@@ -31,7 +31,7 @@
 ![박물관 소장 현황](https://raw.githubusercontent.com/hoilycat/data-visualization/main/01_museum/screenshots/02_museum_collection.png)
 
 ### Tech Stack
-`Python` `Selenium` `Pandas` `Google Colab` `Tableau` `Inkscape`
+`Python` `Pandas` `Google Colab` `Tableau` `Inkscape`
 
 ---
 
