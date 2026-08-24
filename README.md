@@ -30,8 +30,13 @@
 
 ![박물관 소장 현황](https://raw.githubusercontent.com/hoilycat/data-visualization/main/01_museum/screenshots/02_museum_collection.png)
 
-### Tech Stack
-`Python` `Pandas` `Google Colab` `Tableau` `Inkscape`
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-6B4F3A?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-886348?style=flat-square&logo=pandas&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-A77B52?style=flat-square&logo=selenium&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-C28B55?style=flat-square&logo=googlecolab&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-D49A58?style=flat-square&logo=tableau&logoColor=white)
+![Inkscape](https://img.shields.io/badge/Inkscape-765844?style=flat-square&logo=inkscape&logoColor=white)
 
 ---
 
@@ -76,8 +81,10 @@
 
 ![휴게소 심층 탐구](https://raw.githubusercontent.com/hoilycat/data-visualization/main/02_highway/screenshots/02_highway_deep_dive.png)
 
-### Tech Stack
-`CSV` `Tableau` `Inkscape`
+### 🛠️ Tech Stack
+![CSV](https://img.shields.io/badge/CSV-2F5D50?style=flat-square&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-4F772D?style=flat-square&logo=tableau&logoColor=white)
+![Inkscape](https://img.shields.io/badge/Inkscape-C7832E?style=flat-square&logo=inkscape&logoColor=white)
 
 ---
 
@@ -117,8 +124,10 @@
 
 ![나의 문화 역세권](https://raw.githubusercontent.com/hoilycat/data-visualization/main/03_culture/screenshots/02_culture_district.png)
 
-### Tech Stack
-`Excel` `Tableau` `Inkscape`
+### 🛠️ Tech Stack
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-B74467?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-D25A78?style=flat-square&logo=tableau&logoColor=white)
+![Inkscape](https://img.shields.io/badge/Inkscape-8E5AA8?style=flat-square&logo=inkscape&logoColor=white)
 
 ---
 
@@ -157,5 +166,9 @@
 
 ![03 왕좌는 바뀌었습니다](https://raw.githubusercontent.com/hoilycat/data-visualization/main/04_names/screenshots/03_throne_change.png)
 
-### Tech Stack
-`Python` `Pandas` `scikit-learn` `Google Colab` `Tableau`
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-355070?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-466A8A?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-5B6EAE?style=flat-square&logo=scikitlearn&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-6D70B3?style=flat-square&logo=googlecolab&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-4A769E?style=flat-square&logo=tableau&logoColor=white)
